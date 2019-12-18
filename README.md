@@ -8,22 +8,13 @@ IMPORTANT! This project is a work in progress
 ### Install
 You can download or clone the latest version of the code.
 
-You will need to have Ruby installed.
+You will need to have Ruby installed:
 
-Also the following gems are required:
+https://www.ruby-lang.org/en/documentation/installation/
 
-`uri`
+Also the following gem is required: `excon`
 
-`rubygems`
-
-`excon`
-
-`openssl`
-
-`base64`
-
-`json`
-
+`sudo gem install excon`
    
-Then follow the instructions from `examples/setup_api.rb` file.
+Then, follow the instructions from `examples/setup_api.rb` file.
 
